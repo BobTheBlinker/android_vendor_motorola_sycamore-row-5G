@@ -9,6 +9,7 @@ soong_namespace {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Face_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -42,6 +43,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Face_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -75,6 +77,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -108,6 +111,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -141,6 +145,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -174,6 +179,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -207,6 +213,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_Preview_Beauty",
     owner: "motorola",
     strip: {
@@ -240,6 +247,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_Preview_Bokeh",
     owner: "motorola",
     strip: {
@@ -273,6 +281,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_XTS_Capture",
     owner: "motorola",
     strip: {
@@ -306,6 +315,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_XTS_Preview",
     owner: "motorola",
     strip: {
@@ -339,6 +349,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_Capture",
     owner: "motorola",
     strip: {
@@ -372,6 +383,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_Preview",
     owner: "motorola",
     strip: {
@@ -405,6 +417,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_TXHY_Preview",
     owner: "motorola",
     strip: {
@@ -438,6 +451,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_ins_Preview",
     owner: "motorola",
     strip: {
@@ -471,6 +485,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_wechat_Preview",
     owner: "motorola",
     strip: {
@@ -504,6 +519,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_zoom_Capture",
     owner: "motorola",
     strip: {
@@ -537,6 +553,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Third_zoom_Preview",
     owner: "motorola",
     strip: {
@@ -570,6 +587,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Video_1080_face",
     owner: "motorola",
     strip: {
@@ -603,6 +621,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Video_720",
     owner: "motorola",
     strip: {
@@ -636,6 +655,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Video_720_face",
     owner: "motorola",
     strip: {
@@ -669,6 +689,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_1080_Face_Video",
     owner: "motorola",
     strip: {
@@ -702,6 +723,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_1080_Scene_Video",
     owner: "motorola",
     strip: {
@@ -735,6 +757,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_1080_Scene_Video_Zoom1",
     owner: "motorola",
     strip: {
@@ -768,6 +791,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_1080_Scene_Video_Zoom2",
     owner: "motorola",
     strip: {
@@ -801,6 +825,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Capture",
     owner: "motorola",
     strip: {
@@ -834,6 +859,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Capture_1",
     owner: "motorola",
     strip: {
@@ -867,6 +893,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Capture_2",
     owner: "motorola",
     strip: {
@@ -900,6 +927,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Preview",
     owner: "motorola",
     strip: {
@@ -933,6 +961,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Preview_1",
     owner: "motorola",
     strip: {
@@ -966,6 +995,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Preview_2",
     owner: "motorola",
     strip: {
@@ -999,6 +1029,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_3rd_Preview_3",
     owner: "motorola",
     strip: {
@@ -1032,6 +1063,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_720_Face_Video",
     owner: "motorola",
     strip: {
@@ -1065,6 +1097,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_720_Scene_Video",
     owner: "motorola",
     strip: {
@@ -1098,6 +1131,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_720_Scene_Video_Zoom1",
     owner: "motorola",
     strip: {
@@ -1131,6 +1165,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_720_Scene_Video_Zoom2",
     owner: "motorola",
     strip: {
@@ -1164,6 +1199,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Default_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -1197,6 +1233,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Face_Capture_Zoom1",
     owner: "motorola",
     strip: {
@@ -1230,6 +1267,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Face_Capture_Zoom2",
     owner: "motorola",
     strip: {
@@ -1263,6 +1301,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Face_Preview",
     owner: "motorola",
     strip: {
@@ -1296,6 +1335,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Face_Preview_Zoom1",
     owner: "motorola",
     strip: {
@@ -1329,6 +1369,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Face_Preview_Zoom2",
     owner: "motorola",
     strip: {
@@ -1362,6 +1403,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Filllight_Face_Capture",
     owner: "motorola",
     strip: {
@@ -1395,6 +1437,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Filllight_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -1428,6 +1471,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Filllight_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -1461,6 +1505,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Flash_Face_Capture",
     owner: "motorola",
     strip: {
@@ -1494,6 +1539,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -1527,6 +1573,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Flash_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -1560,6 +1607,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -1593,6 +1641,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_HDR_POSITIVE_Capture",
     owner: "motorola",
     strip: {
@@ -1626,6 +1675,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_HDR_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -1659,6 +1709,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Scene_Capture_Zoom1",
     owner: "motorola",
     strip: {
@@ -1692,6 +1743,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Scene_Capture_Zoom2",
     owner: "motorola",
     strip: {
@@ -1725,6 +1777,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Scene_Preview_Zoom1",
     owner: "motorola",
     strip: {
@@ -1758,6 +1811,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Scene_Preview_Zoom2",
     owner: "motorola",
     strip: {
@@ -1791,6 +1845,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_XTS_Capture",
     owner: "motorola",
     strip: {
@@ -1824,6 +1879,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_XTS_Preview",
     owner: "motorola",
     strip: {
@@ -1857,6 +1913,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Face_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -1890,6 +1947,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Face_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -1923,6 +1981,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Face_Preview_ZSD_Flash",
     owner: "motorola",
     strip: {
@@ -1956,6 +2015,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -1989,6 +2049,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -2022,6 +2083,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Scene_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -2055,6 +2117,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Scene_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -2088,6 +2151,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Scene_Preview_Beauty",
     owner: "motorola",
     strip: {
@@ -2121,6 +2185,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Scene_Preview_Bokeh",
     owner: "motorola",
     strip: {
@@ -2154,6 +2219,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Third_Capture",
     owner: "motorola",
     strip: {
@@ -2187,6 +2253,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Third_Preview",
     owner: "motorola",
     strip: {
@@ -2220,6 +2287,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Third_Preview_MTXX",
     owner: "motorola",
     strip: {
@@ -2253,6 +2321,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Video_1080_face",
     owner: "motorola",
     strip: {
@@ -2286,6 +2355,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Video_720",
     owner: "motorola",
     strip: {
@@ -2319,6 +2389,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Video_720_face",
     owner: "motorola",
     strip: {
@@ -2352,6 +2423,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_XTS_Capture",
     owner: "motorola",
     strip: {
@@ -2385,6 +2457,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_XTS_Preview",
     owner: "motorola",
     strip: {
@@ -2418,6 +2491,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_3rd_Capture",
     owner: "motorola",
     strip: {
@@ -2451,6 +2525,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_3rd_Preview",
     owner: "motorola",
     strip: {
@@ -2484,6 +2559,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Doc_Capture",
     owner: "motorola",
     strip: {
@@ -2517,6 +2593,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_3rd_Capture",
     owner: "motorola",
     strip: {
@@ -2550,6 +2627,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_3rd_Preview",
     owner: "motorola",
     strip: {
@@ -2583,6 +2661,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -2616,6 +2695,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -2649,6 +2729,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -2682,6 +2763,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -2715,6 +2797,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -2748,6 +2831,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Preview",
     owner: "motorola",
     strip: {
@@ -2781,6 +2865,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -2814,6 +2899,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Preview_ZSD_Flash",
     owner: "motorola",
     strip: {
@@ -2847,6 +2933,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Video_720",
     owner: "motorola",
     strip: {
@@ -2880,6 +2967,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Zoom_Capture_2x",
     owner: "motorola",
     strip: {
@@ -2913,6 +3001,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Zoom_Capture_4x",
     owner: "motorola",
     strip: {
@@ -2946,6 +3035,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Zoom_Preview_2x",
     owner: "motorola",
     strip: {
@@ -2979,6 +3069,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Filllight_Face_Capture",
     owner: "motorola",
     strip: {
@@ -3012,6 +3103,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Filllight_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -3045,6 +3137,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -3078,6 +3171,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -3111,6 +3205,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_HDR_POSITIVE_Capture",
     owner: "motorola",
     strip: {
@@ -3144,6 +3239,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -3177,6 +3273,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Video_720",
     owner: "motorola",
     strip: {
@@ -3210,6 +3307,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Xts_Capture",
     owner: "motorola",
     strip: {
@@ -3243,6 +3341,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Xts_Preview",
     owner: "motorola",
     strip: {
@@ -3276,6 +3375,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Zoom_Capture_2x",
     owner: "motorola",
     strip: {
@@ -3309,6 +3409,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Zoom_Capture_4x",
     owner: "motorola",
     strip: {
@@ -3342,6 +3443,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Zoom_Preview_2x",
     owner: "motorola",
     strip: {
@@ -3375,6 +3477,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Zoom_Preview_4x",
     owner: "motorola",
     strip: {
@@ -3408,6 +3511,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_3rd_Capture",
     owner: "motorola",
     strip: {
@@ -3441,6 +3545,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_3rd_Preview",
     owner: "motorola",
     strip: {
@@ -3474,6 +3579,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Doc_Capture",
     owner: "motorola",
     strip: {
@@ -3507,6 +3613,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_3rd_Capture",
     owner: "motorola",
     strip: {
@@ -3540,6 +3647,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_3rd_Preview",
     owner: "motorola",
     strip: {
@@ -3573,6 +3681,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -3606,6 +3715,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -3639,6 +3749,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -3672,6 +3783,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -3705,6 +3817,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -3738,6 +3851,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Preview",
     owner: "motorola",
     strip: {
@@ -3771,6 +3885,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -3804,6 +3919,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Preview_ZSD_Flash",
     owner: "motorola",
     strip: {
@@ -3837,6 +3953,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Video_720",
     owner: "motorola",
     strip: {
@@ -3870,6 +3987,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Zoom_Capture_2x",
     owner: "motorola",
     strip: {
@@ -3903,6 +4021,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Zoom_Capture_4x",
     owner: "motorola",
     strip: {
@@ -3936,6 +4055,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Zoom_Preview_2x",
     owner: "motorola",
     strip: {
@@ -3969,6 +4089,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -4002,6 +4123,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -4035,6 +4157,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_HDR_POSITIVE_Capture",
     owner: "motorola",
     strip: {
@@ -4068,6 +4191,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -4101,6 +4225,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Torch_Capture",
     owner: "motorola",
     strip: {
@@ -4134,6 +4259,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Video_720",
     owner: "motorola",
     strip: {
@@ -4167,6 +4293,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Xts_Capture",
     owner: "motorola",
     strip: {
@@ -4200,6 +4327,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Xts_Preview",
     owner: "motorola",
     strip: {
@@ -4233,6 +4361,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Zoom_Capture_2x",
     owner: "motorola",
     strip: {
@@ -4266,6 +4395,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Zoom_Capture_4x",
     owner: "motorola",
     strip: {
@@ -4299,6 +4429,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Zoom_Preview_2x",
     owner: "motorola",
     strip: {
@@ -4332,6 +4463,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Zoom_Preview_4x",
     owner: "motorola",
     strip: {
@@ -4365,6 +4497,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Face_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -4398,6 +4531,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Face_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -4431,6 +4565,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Face_Preview_Beauty",
     owner: "motorola",
     strip: {
@@ -4464,6 +4599,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -4497,6 +4633,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Preview_HDR",
     owner: "motorola",
     strip: {
@@ -4530,6 +4667,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Scene_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -4563,6 +4701,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Scene_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -4596,6 +4735,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Scene_Preview_Beauty",
     owner: "motorola",
     strip: {
@@ -4629,6 +4769,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Scene_Preview_Bokeh",
     owner: "motorola",
     strip: {
@@ -4662,6 +4803,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_Capture",
     owner: "motorola",
     strip: {
@@ -4695,6 +4837,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_Preview",
     owner: "motorola",
     strip: {
@@ -4728,6 +4871,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_TXHY_Preview",
     owner: "motorola",
     strip: {
@@ -4761,6 +4905,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_ins_Preview",
     owner: "motorola",
     strip: {
@@ -4794,6 +4939,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_wechat_Preview",
     owner: "motorola",
     strip: {
@@ -4827,6 +4973,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_zoom_Capture",
     owner: "motorola",
     strip: {
@@ -4860,6 +5007,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Third_zoom_Preview",
     owner: "motorola",
     strip: {
@@ -4893,6 +5041,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Video_1080_face",
     owner: "motorola",
     strip: {
@@ -4926,6 +5075,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Video_720",
     owner: "motorola",
     strip: {
@@ -4959,6 +5109,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Video_720_face",
     owner: "motorola",
     strip: {
@@ -4992,6 +5143,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_XTS_Capture",
     owner: "motorola",
     strip: {
@@ -5025,6 +5177,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_XTS_Preview",
     owner: "motorola",
     strip: {
@@ -5058,6 +5211,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Capture",
     owner: "motorola",
     strip: {
@@ -5091,6 +5245,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Capture_1",
     owner: "motorola",
     strip: {
@@ -5124,6 +5279,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Capture_2",
     owner: "motorola",
     strip: {
@@ -5157,6 +5313,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Preview",
     owner: "motorola",
     strip: {
@@ -5190,6 +5347,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Preview_1",
     owner: "motorola",
     strip: {
@@ -5223,6 +5381,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Preview_2",
     owner: "motorola",
     strip: {
@@ -5256,6 +5415,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_3rd_Preview_3",
     owner: "motorola",
     strip: {
@@ -5289,6 +5449,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Doc_Capture",
     owner: "motorola",
     strip: {
@@ -5322,6 +5483,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Face_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -5355,6 +5517,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Face_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -5388,6 +5551,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Face_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -5421,6 +5585,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Face_Preview",
     owner: "motorola",
     strip: {
@@ -5454,6 +5619,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Face_Preview_ZSD_Flash",
     owner: "motorola",
     strip: {
@@ -5487,6 +5653,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Filllight_Capture",
     owner: "motorola",
     strip: {
@@ -5520,6 +5687,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Filllight_Preview",
     owner: "motorola",
     strip: {
@@ -5553,6 +5721,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Flash_Preview",
     owner: "motorola",
     strip: {
@@ -5586,6 +5755,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_HDR_NEGATIVE_Capture",
     owner: "motorola",
     strip: {
@@ -5619,6 +5789,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_HDR_POSITIVE_Capture",
     owner: "motorola",
     strip: {
@@ -5652,6 +5823,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Scene_Capture_Beauty",
     owner: "motorola",
     strip: {
@@ -5685,6 +5857,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Scene_Capture_Bokeh",
     owner: "motorola",
     strip: {
@@ -5718,6 +5891,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Scene_Preview_Beauty",
     owner: "motorola",
     strip: {
@@ -5751,6 +5925,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Scene_Preview_Bokeh",
     owner: "motorola",
     strip: {
@@ -5784,6 +5959,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Video_720",
     owner: "motorola",
     strip: {
@@ -5817,6 +5993,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Xts_Capture",
     owner: "motorola",
     strip: {
@@ -5850,6 +6027,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Xts_Preview",
     owner: "motorola",
     strip: {
@@ -5883,6 +6061,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Zoom_Capture_2x",
     owner: "motorola",
     strip: {
@@ -5916,6 +6095,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Zoom_Capture_4x",
     owner: "motorola",
     strip: {
@@ -5949,6 +6129,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "gc05a2_lce_front_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -6041,6 +6222,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "gc08a8_ofilm_rear_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -6167,6 +6349,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "gc08a8_sunwin_front_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -6263,6 +6446,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "gc13a0_lce_rear_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -6381,6 +6565,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -6415,6 +6600,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -6449,6 +6635,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -6483,6 +6670,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -6517,6 +6705,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -6551,6 +6740,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -6585,6 +6775,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -6619,6 +6810,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc05a2lcefrontmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -6653,6 +6845,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_E2EHDR_Preview",
     owner: "motorola",
     strip: {
@@ -6687,6 +6880,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_E2EHDR_Video",
     owner: "motorola",
     strip: {
@@ -6721,6 +6915,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -6755,6 +6950,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_HDR_Face_Capture",
     owner: "motorola",
     strip: {
@@ -6789,6 +6985,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -6823,6 +7020,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -6857,6 +7055,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -6891,6 +7090,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -6925,6 +7125,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8ofilmrearmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -6959,6 +7160,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_E2EHDR_Preview",
     owner: "motorola",
     strip: {
@@ -6993,6 +7195,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_E2EHDR_Video",
     owner: "motorola",
     strip: {
@@ -7027,6 +7230,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -7061,6 +7265,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -7095,6 +7300,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -7129,6 +7335,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_HDR_Preview",
     owner: "motorola",
     strip: {
@@ -7163,6 +7370,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -7197,6 +7405,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -7231,6 +7440,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_HDR_Video",
     owner: "motorola",
     strip: {
@@ -7265,6 +7475,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -7299,6 +7510,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -7333,6 +7545,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -7367,6 +7580,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc08a8sunwinfrontmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -7401,6 +7615,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_E2EHDR_Preview",
     owner: "motorola",
     strip: {
@@ -7435,6 +7650,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_E2EHDR_Video",
     owner: "motorola",
     strip: {
@@ -7469,6 +7685,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -7503,6 +7720,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -7537,6 +7755,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -7571,6 +7790,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -7605,6 +7825,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -7639,6 +7860,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -7673,6 +7895,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -7707,6 +7930,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -7741,6 +7965,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_gc13a0lcerearmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -7775,6 +8000,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_E2EHDR_Preview",
     owner: "motorola",
     strip: {
@@ -7809,6 +8035,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_E2EHDR_Video",
     owner: "motorola",
     strip: {
@@ -7843,6 +8070,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -7877,6 +8105,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -7911,6 +8140,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -7945,6 +8175,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_HDR_Preview",
     owner: "motorola",
     strip: {
@@ -7979,6 +8210,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -8013,6 +8245,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -8047,6 +8280,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_HDR_Video",
     owner: "motorola",
     strip: {
@@ -8081,6 +8315,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_N3D_Capture",
     owner: "motorola",
     strip: {
@@ -8115,6 +8350,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_N3D_Preview",
     owner: "motorola",
     strip: {
@@ -8149,6 +8385,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_N3D_Video",
     owner: "motorola",
     strip: {
@@ -8183,6 +8420,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -8217,6 +8455,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -8251,6 +8490,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Scene_Capture_4cell",
     owner: "motorola",
     strip: {
@@ -8285,6 +8525,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -8319,6 +8560,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Scene_Preview_4k",
     owner: "motorola",
     strip: {
@@ -8353,6 +8595,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Scene_Preview_ZSD_Flash",
     owner: "motorola",
     strip: {
@@ -8387,6 +8630,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -8421,6 +8665,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_mtk000mipiraw_Video_4k",
     owner: "motorola",
     strip: {
@@ -8455,6 +8700,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_E2EHDR_Preview",
     owner: "motorola",
     strip: {
@@ -8489,6 +8735,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_E2EHDR_Video",
     owner: "motorola",
     strip: {
@@ -8523,6 +8770,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -8557,6 +8805,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -8591,6 +8840,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -8625,6 +8875,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -8659,6 +8910,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -8693,6 +8945,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -8727,6 +8980,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -8761,6 +9015,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -8795,6 +9050,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_ov13b10txdrearmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -8829,6 +9085,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -8863,6 +9120,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -8897,6 +9155,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -8931,6 +9190,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -8965,6 +9225,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -8999,6 +9260,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -9033,6 +9295,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -9067,6 +9330,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc520cssunwinfrontmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -9101,6 +9365,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -9135,6 +9400,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -9169,6 +9435,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -9203,6 +9470,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -9237,6 +9505,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -9271,6 +9540,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -9305,6 +9575,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820acssunwinrearmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -9339,6 +9610,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_E2EHDR_Preview",
     owner: "motorola",
     strip: {
@@ -9373,6 +9645,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_E2EHDR_Video",
     owner: "motorola",
     strip: {
@@ -9407,6 +9680,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Face_Capture",
     owner: "motorola",
     strip: {
@@ -9441,6 +9715,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Flash_Capture",
     owner: "motorola",
     strip: {
@@ -9475,6 +9750,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_HDR_Capture",
     owner: "motorola",
     strip: {
@@ -9509,6 +9785,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_HDR_Preview",
     owner: "motorola",
     strip: {
@@ -9543,6 +9820,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_HDR_Reconfig_Preview",
     owner: "motorola",
     strip: {
@@ -9577,6 +9855,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_HDR_Reconfig_Video",
     owner: "motorola",
     strip: {
@@ -9611,6 +9890,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_HDR_Video",
     owner: "motorola",
     strip: {
@@ -9645,6 +9925,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_N3D_Capture",
     owner: "motorola",
     strip: {
@@ -9679,6 +9960,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_N3D_Preview",
     owner: "motorola",
     strip: {
@@ -9713,6 +9995,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_N3D_Video",
     owner: "motorola",
     strip: {
@@ -9747,6 +10030,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_P1_YUV",
     owner: "motorola",
     strip: {
@@ -9781,6 +10065,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Scene_Capture",
     owner: "motorola",
     strip: {
@@ -9815,6 +10100,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Scene_Capture_4cell",
     owner: "motorola",
     strip: {
@@ -9849,6 +10135,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Scene_Preview",
     owner: "motorola",
     strip: {
@@ -9883,6 +10170,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Scene_Preview_4k",
     owner: "motorola",
     strip: {
@@ -9917,6 +10205,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Scene_Preview_ZSD_Flash",
     owner: "motorola",
     strip: {
@@ -9951,6 +10240,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Video_1080",
     owner: "motorola",
     strip: {
@@ -9985,6 +10275,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libCamera_sc820cstxdfrontmipiraw_Video_4k",
     owner: "motorola",
     strip: {
@@ -10019,6 +10310,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "mtk000_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -10095,6 +10387,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "ov13b10_txd_rear_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -10211,6 +10504,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "sc520cs_sunwin_front_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -10305,6 +10599,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "sc820acs_sunwin_rear_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -10409,6 +10704,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "sc820cs_txd_front_mipi_raw_tuning",
     owner: "motorola",
     strip: {
@@ -10485,6 +10781,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "liblenovo_keyboard",
     owner: "motorola",
     strip: {
@@ -10509,6 +10806,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libaibc_tuning",
     owner: "motorola",
     strip: {
@@ -10533,6 +10831,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libaibc_tuning_p2",
     owner: "motorola",
     strip: {
@@ -10557,6 +10856,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libaibc_tuning_p3",
     owner: "motorola",
     strip: {
@@ -10581,6 +10881,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libaibc_tuning_p4",
     owner: "motorola",
     strip: {
@@ -10605,6 +10906,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libaidepth_tuning",
     owner: "motorola",
     strip: {
@@ -10629,6 +10931,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "libcameracustom.plugin",
     owner: "motorola",
     strip: {
@@ -10656,6 +10959,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.battery-V4-ndk",
     owner: "motorola",
     strip: {
@@ -10680,6 +10984,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.display-V1-ndk",
     owner: "motorola",
     strip: {
@@ -10704,6 +11009,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.factory-V2-ndk",
     owner: "motorola",
     strip: {
@@ -10728,6 +11034,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.frp-V1-ndk",
     owner: "motorola",
     strip: {
@@ -10752,6 +11059,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.keyboard-V2-ndk",
     owner: "motorola",
     strip: {
@@ -10776,6 +11084,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.misc-V1-ndk",
     owner: "motorola",
     strip: {
@@ -10800,6 +11109,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.performance-V1-ndk",
     owner: "motorola",
     strip: {
@@ -10824,6 +11134,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.touchscreen-V2-ndk",
     owner: "motorola",
     strip: {
@@ -10848,6 +11159,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    stl: "none",
     name: "vendor.lenovo.hardware.usb-V1-ndk",
     owner: "motorola",
     strip: {
@@ -11037,6 +11349,7 @@ prebuilt_etc_xml {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.battery-service",
     owner: "motorola",
     target: {
@@ -11064,6 +11377,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.display-service",
     owner: "motorola",
     target: {
@@ -11091,6 +11405,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.factory-service",
     owner: "motorola",
     target: {
@@ -11121,6 +11436,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.frp-service",
     owner: "motorola",
     target: {
@@ -11148,6 +11464,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.keyboard-service",
     owner: "motorola",
     target: {
@@ -11176,6 +11493,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.misc-service",
     owner: "motorola",
     target: {
@@ -11203,6 +11521,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.performance-service",
     owner: "motorola",
     target: {
@@ -11230,6 +11549,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.touchscreen-service",
     owner: "motorola",
     target: {
@@ -11257,6 +11577,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "vendor.lenovo.hardware.usb-service",
     owner: "motorola",
     target: {
@@ -11284,6 +11605,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
+    stl: "none",
     name: "nvram_lenovo",
     owner: "motorola",
     target: {
