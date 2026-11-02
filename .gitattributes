@@ -1,0 +1,2 @@
+# Prebuilt APKs under app/ are stored via Git LFS (large presigned binaries).
+app/**/*.apk filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,25 @@
+//
+// SPDX-FileCopyrightText: 2026 BOBtheBlinker
+// SPDX-License-Identifier: Apache-2.0
+//
+// MANUAL addition - NOT managed by extract-files.py / setup-makefiles.py.
+// Those regenerate only the vendor repo's root Android.bp, Android.mk,
+// BoardConfigVendor.mk and sycamore_row_5G-vendor.mk, plus the proprietary/
+// tree; this app/ subdir is left untouched, so regeneration will not wipe it.
+//
+// Prebuilt ZUI Notes (com.zui.notes), from the stock Moto Pad 2026 image
+// (/system/preinstall/ZuiNotes). Installs to /product/app. Presigned (RELEASEK),
+// no sharedUserId, no uses-library, no privileged perms / privapp allowlist.
+// The APK is stored via Git LFS (see ../../.gitattributes).
+//
+
+android_app_import {
+    name: "ZuiNotes",
+    apk: "ZuiNotes.apk",
+    preprocessed: true,
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    product_specific: true,
+}
