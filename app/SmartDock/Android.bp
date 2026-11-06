@@ -1,0 +1,54 @@
+//
+// SPDX-FileCopyrightText: 2026 BOBtheBlinker
+// SPDX-License-Identifier: Apache-2.0
+//
+// MANUAL addition - NOT managed by extract-files.py / setup-makefiles.py.
+// Those regenerate only the vendor repo's root Android.bp, Android.mk,
+// BoardConfigVendor.mk and sycamore_row_5G-vendor.mk, plus the proprietary/
+// tree; this app/ subdir is left untouched, so regeneration will not wipe it.
+//
+// Prebuilt Smart Dock (cu.axel.smartdock) v1.13.0 (versionCode 1130).
+// Origin: android-generic agp-apps (vendor_prebuilts_agp-apps, master),
+// which bundles the release from upstream github.com/axel358/smartdock.
+// Upstream is GPL-2.0-only; corresponding source is at that repo (GPL source
+// availability). Presigned (PRESIGNED) third-party APK -> installed privileged
+// to /system_ext/priv-app/SmartDock so the privapp-permissions allowlist below
+// (cu.axel.smartdock-permissions.xml -> /system_ext/etc/permissions) applies.
+//
+// JNI: the APK carries lib/<abi>/libnrb.so (arm64-v8a, armeabi-v7a, x86,
+// x86_64), STORED (uncompressed) with extractNativeLibs="false", so the loader
+// maps libnrb.so straight from the APK - no extraction/jni_libs needed.
+// preprocessed:true installs the APK byte-for-byte (v2/v3 signature + zip
+// alignment preserved); do NOT drop preprocessed or Soong would realign/strip
+// and invalidate the presigned signature.
+//
+// skip_preprocessed_apk_checks: classes.dex is DEFLATED and this is a
+// privileged app, which the presigned-apk check forbids (dex must be STORED).
+// The APK is signed v2/v3 only (no v1), so recompressing the dex to STORED
+// would break the signature and we have no key to re-sign. The flag bypasses
+// that build check; at runtime PackageManager dexopts the compressed dex to
+// /data (not used in-place) - functional, just not in-place-optimized.
+//
+// The APK is stored via Git LFS (see ../../.gitattributes, app/**/*.apk).
+//
+
+android_app_import {
+    name: "SmartDock",
+    apk: "smart-dock.apk",
+    preprocessed: true,
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+    skip_preprocessed_apk_checks: true,
+    dex_preopt: {
+        enabled: false,
+    },
+}
+
+prebuilt_etc {
+    name: "cu.axel.smartdock-permissions",
+    src: "cu.axel.smartdock-permissions.xml",
+    sub_dir: "permissions",
+    system_ext_specific: true,
+    filename_from_src: true,
+}
